@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Kawsar Ahmed",
+  "classifications": [ "Service", "Web" ],
+  "name": "Wep API Service",
+  "defaultName": "Default.API",
+  "identity": "Kawsar.Clean.Web.API.Service",
+  "shortName": "webapiser",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "WebAPI.Service.Template",
+  "preferNameDirectory": true,
+  "description": "It is service project of a Micrservice using clean architecture",
+  "icon": "icon.png"
+}
